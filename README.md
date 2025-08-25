@@ -12,7 +12,7 @@ The code is segmented in 2 mains parts :
 - supervised methods (QDA, Ordinal Logistic Regression, Gradient Boosting). 
 
 ## Report
-The project, analyses and interpretations have been summarized as an article generated in LaTeX (PDF in French available here: SY09_Revue_de_projet_Rendu_Final_COMBELLE_JARDRI_SCALABRE_12JUIN2025.pdf).
+The project, analyses and interpretations have been summarized as an article generated in LaTeX (PDF in French available here: SY09_Revue_de_projet_Rendu_Final_COMBELLE_JARDRI_SCALABRE_JUIN2025.pdf).
 
 ## Contributors
 Rosalie JARDRI, Matteo SCALABRE and Matthieu COMBELLE (supervision: Pr. Benjamin QUOST).
